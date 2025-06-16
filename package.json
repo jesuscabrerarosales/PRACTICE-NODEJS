@@ -1,0 +1,29 @@
+{
+  "name": "practice-nodejs",
+  "version": "1.0.0",
+  "description": "Practice nodejs and learn about node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuscabrerarosales/PRACTICE-NODEJS.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "lear"
+  ],
+  "author": "JECR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesuscabrerarosales/PRACTICE-NODEJS/issues"
+  },
+  "homepage": "https://github.com/jesuscabrerarosales/PRACTICE-NODEJS#readme",
+  "dependencies": {
+    "genshin-api": "^2.3.0",
+    "picocolors": "^1.1.1"
+  }
+}
